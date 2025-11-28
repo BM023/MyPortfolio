@@ -5,10 +5,6 @@ Welcome to your front row seat to my professional journey! This single-page appl
 
 -----
 
-##  Preview
-
------
-
 ##  Features
 
 This portfolio is designed to be fast, responsive, and visually appealing, offering a cohesive user experience with the following key features:
@@ -19,6 +15,16 @@ This portfolio is designed to be fast, responsive, and visually appealing, offer
   * **Responsive Design:** Optimized for seamless viewing across desktop, tablet, and mobile devices.
   * **Certificate Carousel:** The **Skills Page** includes a mechanism to cycle through multiple certificates.
   * **Functional Contact Form:** The **Contact Page** uses the `FormSubmit` service for reliable message delivery.
+
+-----
+
+##  User Stories
+
+"As a Hiring Manager, I want to quickly understand the candidate's core technical skills across Cloud, AI, and DevOps so I can evaluate their fit for an entry-level or junior engineering role."
+
+"As a Recruiter, I want the site to clearly highlight the candidate's end-to-end Capstone Project and provide working GitHub and live demo links so I can easily compile information for the technical team."
+
+"As a Bootcamp Graduate, I want this polished, public-facing portfolio to effectively showcase my completed projects and support my job search by acting as a living resume."
 
 -----
 
@@ -92,9 +98,9 @@ The application should now be running at `http://localhost:3000` (or another por
 
 -----
 
-## 📄 Contact
+##  Contact
 
-I'm always open to new connections and collaborations. Feel free to reach out\!
+I am always open to new connections. Feel free to reach out\!
 
 | Platform | Link |
 | :--- | :--- |
@@ -103,5 +109,9 @@ I'm always open to new connections and collaborations. Feel free to reach out\!
 | **Email** | boikanyo.m0040@icloud.com |
 
 -----
-
 *Built with ❤️ by Boikanyo Maswi*
+
+-----
+_P.S._
+Curious about my journey through this bootcamp? Read about it here: 
+### ["Professional Portfolio Reflection: Growth, Strengths, and Future Trajectory"](https://drive.google.com/file/d/1owknsUadWoBeVhJuEJosjH3IprrVQB90/view?usp=sharing)

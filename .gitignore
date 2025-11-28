@@ -1,0 +1,19 @@
+# Dependency directories
+/node_modules
+
+# Build and Distribution folders
+# These folders are generated when you run 'npm run build'
+/dist
+/build
+
+# Environment files
+# Even if you don't use them now, they protect you if you add them later
+.env
+.env.local
+
+# Log files created by the package manager
+npm-debug.log*
+yarn-debug.log*
+
+# Mac OS specific file
+.DS_Store
