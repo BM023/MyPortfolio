@@ -1,7 +1,7 @@
 # MyPortfolio
-## Tech Engineer Trainee |  Aspiring Data Scientist 
+## Tech Engineer Trainee |  Aspiring Data Scientist  |  Front-End & UI/UX Tinkerer
 
-Welcome to your front row seat to my professional journey! This single-page application (SPA) is built using **React** and styled with **Tailwind CSS** to showcase my journey, projects, skills, and contact information as a Tech Engineer Trainee and aspiring Data Scientist.
+Welcome to your front row seat to my professional journey!
 
 -----
 
