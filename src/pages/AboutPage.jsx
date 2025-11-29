@@ -11,17 +11,20 @@ export default function AboutPage() {
         <div className="grid md:grid-cols-3 gap-12 mb-16">
           <div className="md:col-span-1 flex justify-center">
             <div className="w-48 h-48 bg-gradient-to-br from-blue-200 to-blue-300 rounded-lg flex items-center justify-center border-2 border-blue-300">
-              <div className="text-center">
-                <p className="text-blue-500 font-semibold">Photo.png</p>
-                <p className="text-blue-400 text-sm">(Your profile image)</p>
-              </div>
+              
+              <img
+                src="/Photo.png"
+                alt="Profile Photo"
+                className="object-cover w-full h-full"
+                />
+
             </div>
           </div>
           
           <div className="md:col-span-2">
             <div className="bg-white bg-opacity-60 backdrop-blur p-8 rounded-lg border border-blue-200">
               <p className="text-blue-700 leading-relaxed mb-6">
-                A motivated Wits University Health Science alum turned engineering trainee at Project Y x Capaciti. With an apt ability to adapt, learn and contribute meaningfully to purpose-driven teams and projects, I am eager to grow within the tech and innovation space. I have a strong foundation in problem-solving, collaboration, research, and data analytics.
+                A motivated Wits University Health Science alum turned engineering trainee at Project Y x Capaciti. With an apt ability to adapt, learn and contribute meaningfully to purpose-driven teams and projects. I have a strong foundation in problem-solving, collaboration, research, and data analytics, and I am eager to grow within the tech and innovation space.
               </p>
               <a
                 href="https://drive.google.com/file/d/1VeRN7FbIQaaZKEKFqbnv3ypwAMKLvR-l/view?usp=share_link"
@@ -40,9 +43,9 @@ export default function AboutPage() {
           <h3 className="text-2xl font-bold text-blue-500 mb-8">My Journey</h3>
           <div className="space-y-6">
             {[
-              { year: '2023-2024', title: 'Health Science Research', desc: 'Research background and analytical foundation' },
-              { year: '2024-Present', title: 'Tech Engineering Trainee', desc: 'Enrolled in Cloud, AI, Low Code, and Data programs at Project Y x Capaciti' },
-              { year: '2025', title: 'Aspiring Data Scientist', desc: 'Building expertise in data engineering and analytics' },
+              { year: '2021-2024', title: 'Health Science and Research', desc: 'Health and research background and analytical foundation' },
+              { year: 'Present', title: 'Tech Engineering Trainee', desc: 'Enrolled in Cloud, AI, Low Code, and Data programs at Project Y x Capaciti' },
+              { year: 'Future', title: 'Aspiring Data Scientist', desc: 'Turning insights into solutions' },
             ].map((item, i) => (
               <div key={i} className="flex gap-4">
                 <div className="w-24 font-semibold text-blue-400">{item.year}</div>

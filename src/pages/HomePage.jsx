@@ -32,7 +32,7 @@ export default function HomePage({ setCurrentPage }) {
         </h1>
         <p className="text-xl text-blue-600 mb-8">Tech Engineer Trainee • Aspiring Data Scientist</p>
         <p className="text-blue-500 max-w-2xl mx-auto mb-12 leading-relaxed">
-          Motivated Wits University Health Science alum turned engineering trainee. With a strong foundation in problem-solving, collaboration, and data analytics, I'm eager to grow within the tech and innovation space.
+          Engineering tomorrow's solutions today. Passionate about leveraging technology to drive innovation and create impactful experiences. Explore my portfolio to see the intersection of data and curiosity.
         </p>
         <button
           onClick={() => setCurrentPage('about')}
