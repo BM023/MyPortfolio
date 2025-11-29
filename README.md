@@ -2,7 +2,14 @@
 ## Tech Engineer Trainee |  Aspiring Data Scientist 
 
 Welcome to your front row seat to my professional journey! This single-page application (SPA) is built using **React** and styled with **Tailwind CSS** to showcase my journey, projects, skills, and contact information as a Tech Engineer Trainee and aspiring Data Scientist.
+-----
 
+##  Preview
+
+<img width="1340" height="591" alt="Portfolio Preview" src="public/Preview.png" />
+
+
+[View Live Site](https://myportfolio-99rp7idiy-bm023s-projects.vercel.app)
 -----
 
 ##  Features
@@ -10,11 +17,11 @@ Welcome to your front row seat to my professional journey! This single-page appl
 This portfolio is designed to be fast, responsive, and visually appealing, offering a cohesive user experience with the following key features:
 
   * **Custom Cursor:** A unique, custom-designed cursor enhances interactivity and visual style.
-  * **Typing Effect:** The welcome message on the **Home Page** utilizes a dynamic typing animation to greet visitors.
+  * **Typing Effect:** The welcome message on the Home Page utilizes a dynamic typing animation to greet visitors.
   * **Smooth Navigation:** Uses client-side routing (managed by React state) for instant page transitions without reloading.
   * **Responsive Design:** Optimized for seamless viewing across desktop, tablet, and mobile devices.
-  * **Certificate Carousel:** The **Skills Page** includes a mechanism to cycle through multiple certificates.
-  * **Functional Contact Form:** The **Contact Page** uses the `FormSubmit` service for reliable message delivery.
+  * **Certificate Carousel:** The Skills Page includes a mechanism to cycle through multiple certificates.
+  * **Functional Contact Form:** The Contact Page uses the `FormSubmit` service for reliable message delivery.
 
 -----
 
@@ -94,8 +101,11 @@ To run this project locally, follow these steps:
     npm start
     ```
 
-The application should now be running at `http://localhost:3000` (or another port depending on your setup).
+The application should now be running at `http://localhost:5173/` (or another port depending on your setup).
 
+## 📄 License
+
+© 2025 Boikanyo Maswi. All rights reserved.
 -----
 
 ##  Contact
